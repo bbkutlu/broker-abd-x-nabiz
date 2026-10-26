@@ -5,7 +5,7 @@
 | @ali_hakan_kara | Makro, faiz, enflasyon | Hakan Kara |
 | @tufanpoyrazz | — | |
 | @akkayabahadir | — | |
-| @boraozkent | — | |
+| @boraozkentNSDQ | — | |
 | @prokayafinance | — | |
 | @caseyturk579 | — | |
 
