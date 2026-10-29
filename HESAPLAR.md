@@ -2,8 +2,6 @@
 
 | Hesap | Konu | Not |
 |---|---|---|
-| @ali_hakan_kara | Makro, faiz, enflasyon, TCMB rezervleri | Hakan Kara |
-| @tufanpoyrazz | Konut fiyatları (dolar/altın bazında), fon krizi, makro | Tufan Poyraz |
 | @akkayabahadir | — | |
 | @boraozkentNSDQ | — | |
 | @prokayafinance | — | |
